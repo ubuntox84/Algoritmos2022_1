@@ -1,0 +1,4 @@
+Alan,45,M
+Toledo,30,M
+Castillo,300,M
+Keiko,1000,M
